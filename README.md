@@ -12,19 +12,19 @@ day to day tasks of working artists, such as writing critically about their own 
 
 # Class dates
 
-- January 30
-- February 6
-- February 13
-- February 20
-- February 27
-- March 5
-- March 12
-- March 26
-- April 2
-- April 9
-- April 16
-- April 23
-
+- January 30 Introduction and student presentations 
+- February 6 Finding your creative voice   
+- February 13 Glossaries
+- February 20 Definitions + images / Field trip in Brooklyn
+- February 27 Artist Statements 
+- March 5 Artist Residency applications / Biography 
+- March 12 Curatorial statements / Visit to [Artists Space](https://artistsspace.org/home) and [Team Gallery](http://www.teamgal.com/exhibitions/425/borderline_aurora_borealis) in Soho, NYC
+- Spring break 
+- March 26 Commissions and grants / Visit to [Lower Manhattan Cultural Council](https://lmcc.net/resources/artist-residencies/workspace/) Workspace residency  
+- April 2 Time and budget management 
+- April 9 Teaching and public speaking, pedagogy and creative practice   
+- April 16 Archive and documentation 
+- April 23 Creating your oddkins, nurturing your community, long term, sustainable business plans 
 
 
 STATEMENT OF ACADEMIC INTEGRITY  
